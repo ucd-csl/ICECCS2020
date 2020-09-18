@@ -1,0 +1,2 @@
+solutionID                    DO0.pos_y                     DO0.velo                      DO0.acc                       obj                           fit_pena_a_max                fit_pena_curv_rate            fit_pena_max_latg             fit_pena_spd                  
+6c612f3f                      220.24037108986866            12.060620704001034            0.946998590762232             1112000.4069165492            0.15394519981932991           0.12507476343984614           1000.1278965858902            1111000.0                     
